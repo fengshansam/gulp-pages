@@ -1,0 +1,25 @@
+{
+  "name": "gulp-pages",
+  "version": "1.0.0",
+  "description": "gulp study",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fengshansam/gulp-pages.git"
+  },
+  "keywords": [
+    "gulp"
+  ],
+  "author": "fshan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fengshansam/gulp-pages/issues"
+  },
+  "homepage": "https://github.com/fengshansam/gulp-pages#readme"
+}
