@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "gulp study",
   "main": "lib/index.js",
+  "bin": "bin/gulp-pages.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
