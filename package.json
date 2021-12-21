@@ -2,10 +2,7 @@
   "name": "gulp-pages",
   "version": "1.0.0",
   "description": "gulp study",
-  "main": "index.js",
-  "directories": {
-    "lib": "lib/index.js"
-  },
+  "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
