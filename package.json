@@ -4,6 +4,10 @@
   "description": "gulp study",
   "main": "lib/index.js",
   "bin": "bin/gulp-pages.js",
+  "files": [
+    "lib",
+    "bin"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
