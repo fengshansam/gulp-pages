@@ -1,5 +1,5 @@
 {
-  "name": "gulp-pages",
+  "name": "fshan-gulp-pages",
   "version": "1.0.0",
   "description": "gulp study",
   "main": "lib/index.js",
